@@ -1,0 +1,21 @@
+{
+  "mc_get_peso_anterior": 150.0,
+  "mc_get_risco_gestacional": 2.0,
+  "mc_mul_est_civil": 5.0,
+  "mc_pes_raca_etnia": 4.0,
+  "mc_dae_diagnostico_desnutricao": 1.0,
+  "mc_dae_escolaridade": 0.0,
+  "has_arterial_hypertension": true,
+  "has_diabetes": true,
+  "has_cirurgia_pelvica": true,
+  "has_cardiopatia": true,
+  "has_infeccao_urinaria": true,
+  "has_malformacao_familiar": true,
+  "has_gemelaridade_familiar": true,
+  "sd_quant_gest": 6,
+  "sd_quant_aborto": 3,
+  "sd_quant_partos": 3,
+  "idade": 50.0,
+  "primeiro_pre_natal": 4.0,
+  "time_between_pregnancies": 12
+}
