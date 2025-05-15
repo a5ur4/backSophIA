@@ -22,6 +22,7 @@ CORS(app)  # Permite solicitações de diferentes origens (importante para front
 # Caminho para o modelo
 data_path = os.path.join(os.path.dirname(__file__), '..', 'models', 'data.pkl')
 
+
 # Carregar o arquivo .pkl
 try:
     with open(data_path, 'rb') as f:

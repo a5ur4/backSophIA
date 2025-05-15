@@ -1,1 +1,3 @@
 venv/
+logs/app.log
+tests/__pycache__/

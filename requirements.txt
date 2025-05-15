@@ -1,0 +1,7 @@
+pandas
+flask
+flask-cors
+numpy
+scikit-learn
+pytest 
+pytest-flask
